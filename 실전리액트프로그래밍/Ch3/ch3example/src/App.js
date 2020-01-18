@@ -7,12 +7,13 @@ import MyComponent3_4 from './3-4.js';
 import MyComponent3_5 from './3-5.js';
 import MyComponent3_10 from './3-10.js';
 import MyComponent3_11 from './3-11.js';
+import MyComponent3_14 from './3-14.js';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MyComponent3_11 />
+        <MyComponent3_14 />
       </header>
     </div>
   );
